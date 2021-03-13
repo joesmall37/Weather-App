@@ -1,1 +1,50 @@
+body {
+    color: white;
+}
+
+.greenbtn {
+    background-color: green;
+}
+
+.yellowbtn {
+    background-color: yellow;
+}
+
+.orangebtn {
+    background-color: orange;
+}
+
+.redbtn {
+    background-color: red;
+}
+
+.violetbtn {
+    background-color: violet;
+}
+
+.card-body {
+    max-width: 200px;
+    background-color: black;
+    color: white;
+    margin: .3em;
+}
+
+#card-row {
+    margin-left: 2%;
+}
+
+.bg {
+    background-color: #02064a;
+}
+
+/* .mt-3 {
+    background-color: #02064a;
+} */
+
+.card {
+    background-color: #02064a;
+}
+
+.list-group-item {
+}
 

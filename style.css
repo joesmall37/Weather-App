@@ -1,30 +1,7 @@
-body {
-    color: white;
-}
-
-.greenbtn {
-    background-color: green;
-}
-
-.yellowbtn {
-    background-color: yellow;
-}
-
-.orangebtn {
-    background-color: orange;
-}
-
-.redbtn {
-    background-color: red;
-}
-
-.violetbtn {
-    background-color: violet;
-}
 
 .card-body {
     max-width: 200px;
-    background-color: black;
+    background-color: #02064a;
     color: white;
     margin: .3em;
 }
@@ -41,10 +18,16 @@ body {
     background-color: #02064a;
 } */
 
-.card {
+/* .card {
     background-color: #02064a;
+} */
+
+.navbar {
+color: white;
+background-color: #02064a;
 }
 
-.list-group-item {
+#search-button {
+    background-color: #02064a;
 }
 

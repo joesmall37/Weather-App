@@ -104,18 +104,6 @@ $(document).ready(function () {
         var uv = $("<p>").text("UV Index: ");
         var btn = $("<span>").addClass("btn btn-sm").text(data.value);
 
-        // change color depending on uv value
-        if (data.value < 2) {
-          btn.addClass('greenbtn');
-        } else if (2 <= data.value && data.value < 5) {
-          btn.addClass('yellowbtn');
-        } else if (5 <= data.value && data.value < 7) {
-          btn.addClass('orangebtn');
-        } else if (7 <= data.value && data.value < 10) {
-          btn.addClass('redbtn');
-        } else if (10 <= data.value) {
-          btn.addClass('violetbtn');
-        }
         $("#today .UVbutton").append(uv.append(btn));
       }
     });

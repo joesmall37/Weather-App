@@ -1,9 +1,9 @@
 $(document).ready(function () {
-  $("#search-button").on("click", function () {
-    var searchInput = $("#search-value").val();
+  $("#search").on("click", function () {
+    var searchInput = $("#s-val").val();
     console.log(searchInput);
     // clear input
-    $("#search-value").val('');
+    $("#s-val").val('');
     searchWeather(searchInput);
   });
 
@@ -120,4 +120,5 @@ $(document).ready(function () {
     makeRow(history[i]);
   }
 });
+
 

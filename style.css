@@ -1,33 +1,31 @@
-
-.card-body {
-    max-width: 200px;
-    background-color: #02064a;
-    color: white;
-    margin: .3em;
-}
-
-#card-row {
-    margin-left: 2%;
-}
-
 .bg {
     background-color: #02064a;
 }
 
-/* .mt-3 {
-    background-color: #02064a;
-} */
-
-/* .card {
-    background-color: #02064a;
-} */
+.mt-3 {
+    color: #02064a;
+}
 
 .navbar {
 color: white;
 background-color: #02064a;
 }
 
-#search-button {
+#search {
     background-color: #02064a;
+}
+h5 {
+    color:#02064a;
+}
+#clear-history {
+     background-color: #02064a;
+     border-color:  #02064a;;
+}
+
+.card-body {
+    background-color: #02064a;
+    color: white;
+    margin: 6px;
+    max-width: 180px;
 }
 

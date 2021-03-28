@@ -5,3 +5,9 @@
 ## Deployed Application
 -  [Link to application](https://joesmall37.github.io/Weather-App/)
 - ![image](https://user-images.githubusercontent.com/63420051/111056273-b6d8b080-844b-11eb-8f65-7f1ece3791bd.png)
+## Technology Used
+  - HTML
+  - CSS
+  - Bootstrap
+  - Javascript
+  - Jquery
